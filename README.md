@@ -1,0 +1,1 @@
+# platni_listic_setup
